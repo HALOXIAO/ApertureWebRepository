@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.sankuai.inf.leaf</groupId>
+  <artifactId>leaf-boot-starter</artifactId>
+  <versioning>
+    <release>1.0.1-RELEASE</release>
+    <versions>
+      <version>1.0.1-RELEASE</version>
+    </versions>
+    <lastUpdated>20200919062903</lastUpdated>
+  </versioning>
+</metadata>
